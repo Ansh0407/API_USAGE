@@ -1,3 +1,13 @@
+h1{
+  display: flex;
+  justify-content: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #150202;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #eb0f0f;
+
+}
 .container {
   display: flex;
   justify-content: space-around;
